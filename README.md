@@ -38,15 +38,7 @@
 </p>
 
 ---
-### 📜 Certificaciones
 
-<p align="center">
-  <ul align="left">
-    <li>🎓 <strong><a href="https://platzi.com/p/tu_usuario/cursos/123456-certificado/" target="_blank">Fundamentos de Programación</a></strong> - Platzi</li>
-    <li>🛠️ <strong><a href="https://www.udemy.com/certificate/UC-abcdef123456/" target="_blank">Git y GitHub</a></strong> - Udemy</li>
-    <li>🌐 <strong><a href="https://activate.google.com/link-del-certificado" target="_blank">Desarrollo Web Frontend</a></strong> - Google Actívate</li>
-  </ul>
-</p>
 ### 🤝 Conecta conmigo
 
 <p align="center">
