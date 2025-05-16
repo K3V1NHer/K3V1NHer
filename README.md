@@ -18,6 +18,8 @@
 Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología. Me gusta aprender constantemente y disfruto crear soluciones útiles a través del código. Tengo experiencia con lenguajes como JavaScript, Python y PHP, y estoy en proceso de fortalecer mis habilidades en desarrollo web, bases de datos y herramientas colaborativas como Git y GitHub. Siempre estoy abierto a nuevos retos y oportunidades que me permitan crecer personal y profesionalmente.
 
 
+---
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
