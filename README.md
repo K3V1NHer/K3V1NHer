@@ -20,6 +20,8 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
 
 ---
 
+### 📊 GitHub Stats
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
