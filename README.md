@@ -70,4 +70,20 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer" />
 </div>
 
+---
+
+### 🎓 Certificaciones
+
+<p align="center">
+  <a href="https://platzi.com/certificado/python" target="_blank" title="Certificación en Python - Platzi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://platzi.com/certificado/windows-dev-env" target="_blank" title="Configuración de Entorno de Desarrollo en Windows - Platzi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://platzi.com/certificado/git-github" target="_blank" title="Certificación en Git y GitHub - Platzi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+</p>
 
