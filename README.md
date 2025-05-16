@@ -12,11 +12,9 @@
 
 ---
 
-
 ### 👨‍💻 Sobre mí
 
 Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología. Me gusta aprender constantemente y disfruto crear soluciones útiles a través del código. Tengo experiencia con lenguajes como JavaScript, Python y PHP, y estoy en proceso de fortalecer mis habilidades en desarrollo web, bases de datos y herramientas colaborativas como Git y GitHub. Siempre estoy abierto a nuevos retos y oportunidades que me permitan crecer personal y profesionalmente.
-
 
 ---
 
@@ -64,31 +62,8 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
   </a>
 </p>
 
-
-
 ---
-
-
-### 🎓 Certificaciones
-
-<p align="center">
-  <a href="https://platzi.com/certificado/python" target="_blank" title="Certificación en Python - Platzi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://platzi.com/certificado/windows-dev-env" target="_blank" title="Configuración de Entorno de Desarrollo en Windows - Platzi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://platzi.com/certificado/git-github" target="_blank" title="Certificación en Git y GitHub - Platzi">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/40px-Git-logo.svg.png" alt="Git" width="40" height="40" style="margin: 0 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
-  </a>
-</p>
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer" />
 </div>
-
----
-
-
