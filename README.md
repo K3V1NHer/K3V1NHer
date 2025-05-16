@@ -12,13 +12,11 @@
 
 ---
 ---
+---
 
-<h2 align="center">👨‍💻 Sobre mí</h2>
+### 👨‍💻 Sobre mí
 
-<p align="center" style="font-size: 16px; line-height: 28px; max-width: 700px; margin: auto;">
-  ¡Hola! Soy <strong>Kevin Herrera</strong>, estudiante de <strong>Ingeniería de Sistemas</strong> con una gran pasión por el desarrollo de software. Me encanta aprender cosas nuevas, trabajar en proyectos útiles y descubrir cómo la tecnología puede hacer la vida más fácil.<br><br>
-  Tengo experiencia con lenguajes como <strong>JavaScript</strong>, <strong>Python</strong> y <strong>PHP</strong>, y sigo mejorando mis habilidades en <strong>desarrollo web</strong>, <strong>bases de datos</strong> y <strong>herramientas colaborativas</strong> como Git y GitHub. Estoy siempre abierto a nuevos desafíos que me ayuden a crecer personal y profesionalmente.
-</p>
+Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología. Me gusta aprender constantemente y disfruto crear soluciones útiles a través del código. Tengo experiencia con lenguajes como JavaScript, Python y PHP, y estoy en proceso de fortalecer mis habilidades en desarrollo web, bases de datos y herramientas colaborativas como Git y GitHub. Siempre estoy abierto a nuevos retos y oportunidades que me permitan crecer personal y profesionalmente.
 
 
 <table align="center">
