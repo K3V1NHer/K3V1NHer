@@ -64,36 +64,36 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
   </a>
 </p>
 
----
+
 
 ---
 
 ### 🎓 Certificaciones
 
-<table align="center" cellpadding="10">
-  <tr align="center">
-    <td>
+<table align="center" cellpadding="10" style="border-collapse: collapse; border: none;">
+  <tr align="center" style="border: none;">
+    <td style="border: none; padding: 10px;">
       <a href="https://platzi.com/certificado/python" target="_blank" title="Certificación en Python - Platzi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
       </a>
       <br />
       <small>Python - Platzi</small>
     </td>
-    <td>
+    <td style="border: none; padding: 10px;">
       <a href="https://platzi.com/certificado/windows-dev-env" target="_blank" title="Configuración de Entorno de Desarrollo en Windows - Platzi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" />
       </a>
       <br />
       <small>Entorno Windows - Platzi</small>
     </td>
-    <td>
+    <td style="border: none; padding: 10px;">
       <a href="https://platzi.com/certificado/git-github" target="_blank" title="Certificación en Git y GitHub - Platzi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
       </a>
       <br />
       <small>Git - Platzi</small>
     </td>
-    <td>
+    <td style="border: none; padding: 10px;">
       <a href="https://platzi.com/certificado/git-github" target="_blank" title="Certificación en Git y GitHub - Platzi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
       </a>
