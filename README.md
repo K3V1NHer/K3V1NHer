@@ -39,7 +39,7 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,py,java,php,react,mysql,md,linux,discord,platzi" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,py,java,php,react,mysql,md,linux,discord" />
   </a>
 </p>
 
