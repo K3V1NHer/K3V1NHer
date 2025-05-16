@@ -66,12 +66,6 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer" />
-</div>
-
----
-
 ### 🎓 Certificaciones
 
 <p align="center">
@@ -86,4 +80,12 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
   </a>
 </p>
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer" />
+</div>
+
+---
+
 
