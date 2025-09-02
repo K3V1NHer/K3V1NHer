@@ -48,7 +48,7 @@ Hola, soy Kevin Herrera, un estudiante de Ingeniería de Sistemas apasionado por
 ### 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kevin-herrera-55387532b/](https://www.linkedin.com/in/kevin-alejandro-herrera-pinz%C3%B3n-55387532b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeGVoOtjCQKeOhJEXY2BGFg%3D%3D)" target="_blank">
+  <a href="linkedin.com/in/kevin-alejandro-herrera-pinzón-55387532b" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://x.com/kevinhe57127323" target="_blank">
